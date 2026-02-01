@@ -1,0 +1,5 @@
+def main() -> None:
+    print("Sonic es mejor que Freddy Fazbear")
+    
+if __name__ == "__main__":
+    main()
